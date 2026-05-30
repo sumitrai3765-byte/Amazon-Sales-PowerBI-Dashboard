@@ -1,6 +1,7 @@
 # Amazon E-Commerce Sales Dashboard — Power BI
 
-![Dashboard Preview](screenshots/page1_sales_overview.png)
+![Dashboard Preview](<img width="1275" height="772" alt="Screenshot 2026-05-30 174427" src="https://github.com/user-attachments/assets/2affe0d4-d9b0-470e-9ddf-92a091d1166d" />)
+
 
 ## Overview
 

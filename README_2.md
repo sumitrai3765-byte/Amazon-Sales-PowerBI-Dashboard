@@ -1,6 +1,6 @@
 # Amazon E-Commerce Sales Dashboard — Power BI
 
-![Dashboard Preview]("C:\Users\DELL\OneDrive\Desktop\Sales Overview.png")
+![Dashboard Preview]("screenshots\Sales Overview.png")
 
 
 

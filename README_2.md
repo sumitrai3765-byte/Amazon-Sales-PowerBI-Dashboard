@@ -1,7 +1,5 @@
 # Amazon E-Commerce Sales Dashboard — Power BI
 
-![Dashboard Preview](screenshots/Screenshot 2026-05-30 174358.png)
-
 
 
 
